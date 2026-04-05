@@ -60,7 +60,8 @@ This project showcases an interactive Excel dashboard built using Blinkit grocer
 
 ## 📷 Dashboard Preview
 
-![Dashboard](screenshots/dashboard.png)
+
+<img width="574" height="296" alt="BlinkiIT dashboard" src="https://github.com/user-attachments/assets/4fed28ce-e2e8-4cfd-9703-1e97e7c93ace" />
 
 ---
 
